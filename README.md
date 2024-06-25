@@ -18,5 +18,4 @@ Used language and libraries/packages:java, apanche netbeans
 
 SCREENSHOT:
 
-![Captura de pantalla (1433)](https://github.com/saacondac/UI-Java---Billetera/assets/169868069/a40e056c-59c3-4fa4-a12c-4ccae8956d05)
-
+![image](https://github.com/saacondac/UI-Java---Billetera/assets/169862762/60cf2db7-64e6-441a-b578-964921aedbf1)
